@@ -5,4 +5,4 @@ def test():
     if min < max:
         print("true")
     else:
-        print("false")
+        print("falseferfrf")
